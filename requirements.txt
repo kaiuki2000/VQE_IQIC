@@ -1,0 +1,5 @@
+qiskit
+qiskit-nature
+matplotlib
+ipykernel
+pyscf
